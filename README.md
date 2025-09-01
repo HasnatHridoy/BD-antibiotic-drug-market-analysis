@@ -19,4 +19,29 @@ In this analysis, we will focus on the following points:
 5. Comparing the unit prices of commonly available antibiotics across top brands.  
 6. Comparing the daily minimum wage with the per-unit prices of common antibiotics in different strengths.
 
-## Findings from the <a href="https://public.tableau.com/views/AnOverviewofBangladeshsAntibioticMarketandCommonAntibioticPriceAnalysis_/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Dashboard <img src="readme_glossaries/icons_tableau.png" width="20"></a>
+## Key Findings from the <a href="https://public.tableau.com/views/AnOverviewofBangladeshsAntibioticMarketandCommonAntibioticPriceAnalysis_/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Dashboard <img src="readme_glossaries/icons_tableau.png" width="20"></a>
+
+
+<img src="readme_glossaries/Dashboard _1_1.png" width="600">
+<img src="readme_glossaries/Dashboard_1.png" width="600">
+
+- From the data, we found that *99 generics of antibiotics* are available in Bangladesh, manufactured by *164 companies*, and offered in *30 dosage forms* (tablet, powder for suspension, capsule, etc.).  
+- *Incepta Pharmaceuticals Ltd.* manufactures the highest number of antibiotic products in Bangladesh and also covers the widest range of generics.  
+- *Azithromycin* is the most widely produced antibiotic generic in Bangladesh.  
+
+<img src="readme_glossaries/Dashboard_2.png" width="600">
+
+- The top three dosage forms are *tablets, powder for suspension, and capsules*.  
+- *Opsonin* and *Incepta* hold the top position in manufacturing tablet-based antibiotics.  
+- *Incepta** is also the leader in producing IV and IM injections, as well as infusion products.  
+- The *ophthalmic antibiotics* market is relatively less saturated.  
+
+
+<img src="readme_glossaries/amo_clav_dashboard.png" width="600">
+<img src="readme_glossaries/amox_dashboard.png" width="600">
+<img src="readme_glossaries/azthromycin_dashboard.png" width="600">
+<img src="readme_glossaries/ciprof_dashboard.png" width="600">
+<img src="readme_glossaries/livo_dashboard.png" width="600">
+
+- Common antibiotics are available in various doses and forms.
+- Most antibiotic doses are priced below the minimum daily wage in Bangladesh.  
