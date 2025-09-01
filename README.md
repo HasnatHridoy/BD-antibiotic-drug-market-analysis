@@ -32,8 +32,8 @@ In this analysis, we will focus on the following points:
 <img src="readme_glossaries/Dashboard_2.png" width="600">
 
 - The top three dosage forms are *tablets, powder for suspension, and capsules*.  
-- *Opsonin* and *Incepta* hold the top position in manufacturing tablet-based antibiotics.  
-- *Incepta** is also the leader in producing IV and IM injections, as well as infusion products.  
+- *Opsonin* and *Incepta* hold the top position in manufacturing these top 3 forms of antibiotics.  
+- *Incepta* is also the leader in producing IV and IM injections, as well as infusion products.  
 - The *ophthalmic antibiotics* market is relatively less saturated.  
 
 
