@@ -6,3 +6,6 @@
 
 ## Problem statement
 Bangladesh's drug market is huge, and antibiotic drugs make up a significant portion of it. In this project, we will provide an overview of the current antibiotics market in Bangladesh. We will also explore the prices of some commonly prescribed antibiotics across several top brands.
+
+We would like to thank <a href="https://medex.com.bd/">MedEx</a>, from which we have extracted data for 3,700 antibiotic products for this analysis.
+
