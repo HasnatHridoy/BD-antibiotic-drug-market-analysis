@@ -46,7 +46,7 @@ In this analysis, we will focus on the following points:
 - Common antibiotics are available in various doses and forms.
 - Most antibiotic doses are priced below the minimum daily wage in Bangladesh.
 
-## Reproduction of the project
+## Reproduction of this project
 
 ### For Colab users
 
