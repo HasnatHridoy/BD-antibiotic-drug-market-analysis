@@ -19,4 +19,4 @@ In this analysis, we will focus on the following points:
 5. Comparing the unit prices of commonly available antibiotics across top brands.  
 6. Comparing the daily minimum wage with the per-unit prices of common antibiotics in different strengths.
 
-## Findings from the <a href="https://public.tableau.com/views/AnOverviewofBangladeshsAntibioticMarketandCommonAntibioticPriceAnalysis_/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Dashboard </a>
+## Findings from the <a href="https://public.tableau.com/views/AnOverviewofBangladeshsAntibioticMarketandCommonAntibioticPriceAnalysis_/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Dashboard <img src="readme_glossaries/icons_tableau.png" width="20"></a>
