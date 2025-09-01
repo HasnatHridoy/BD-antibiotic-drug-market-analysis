@@ -4,4 +4,5 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-### Problem statement
+## Problem statement
+Bangladesh's drug market is huge, and antibiotic drugs make up a significant portion of it. In this project, we will provide an overview of the current antibiotics market in Bangladesh. We will also explore the prices of some commonly prescribed antibiotics across several top brands.
