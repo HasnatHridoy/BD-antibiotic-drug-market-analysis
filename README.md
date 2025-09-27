@@ -56,41 +56,6 @@ Go to Colab via below link and click run all.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-
-### For Running locally
-
-1. Clone the repository and navigate to the scripts folder:
-
-```bash
-git clone https://github.com/HasnatHridoy/BD-antibiotic-drug-market-analysis.git
-cd BD-antibiotic-drug-market-analysis/scraper_files/scripts
-```
-
-2. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Download & Install ChromeDriver (if not already installed):
-
-Check your Chrome version: Open Chrome → Settings → About Chrome
-Download the matching version from ChromeDriver Downloads
-Extract and either place in a folder in your system PATH or leave it for webdriver-manager to handle automatically
-
-```bash
-chromedriver --version
-```
-
-4. Run the scraper script:
-
-```bash
-python local_scraper.py
-```
-
-Note: If ChromeDriver is in PATH, it uses that
-Otherwise, webdriver-manager downloads the correct version automatically
-
 ### Dataset
 
 You can find the dataset from <a href="https://github.com/HasnatHridoy/BD-antibiotic-drug-market-analysis/blob/main/scraped_data/data_extracted.csv"> here </a>
