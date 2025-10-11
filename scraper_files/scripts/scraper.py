@@ -36,25 +36,18 @@ def scrape_data(driver):
     driver.uc_open_with_reconnect(url, 10)
     driver.uc_gui_click_captcha()
     
-    # -------------------------------------------------------------------
-    # REVISED CODE: Click the "Continue" button using the CSS selector
-    # -------------------------------------------------------------------
+    
+    # handling the captcha "Continue" button
     continue_selector = 'button.captcha-button'
     
     try:
-        print('Attempting to click "Continue" button using CSS selector...')
-        
-        # Use SeleniumBase's click, which automatically waits for the element
-        # with the class "captcha-button" to be present, visible, and clickable.
+        print('Attempting to click "Continue" button...')
         driver.click(continue_selector, timeout=10)
         print('✅ Successfully clicked "Continue" button.')
         
     except Exception as e:
         print(f'❌ Failed to find or click "Continue" button: {e}')
-        # This will allow the script to proceed if the element is not found
-        # (e.g., if the captcha passed and the button disappeared quickly).
-
-    # -------------------------------------------------------------------
+        
 
     
     # Collect links
