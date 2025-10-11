@@ -11,6 +11,6 @@ df = dc.process_data(data_extracted)
 print('Completed')
 print(df.head())
 
-df.to_csv('extracted_data.csv', index=False)
+df.to_csv('data_extracted.csv', index=False)
 
 driver.quit()
