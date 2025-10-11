@@ -1,6 +1,6 @@
 from seleniumbase import Driver
 
-import scraper_2 as sc
+import scraper as sc
 import data_cleaner as dc
 
 driver = Driver(uc = True)
