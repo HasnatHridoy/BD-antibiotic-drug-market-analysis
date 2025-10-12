@@ -56,6 +56,32 @@ Go to Colab via below link and click run all.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+
+### For local users
+
+#### Chromedriver setup
+
+- Go to the  <a href='https://googlechromelabs.github.io/chrome-for-testing/'>Google Chrome Labs </a> and download the stable version of the chrome driver.
+- Unzip it and run the chromedriver.exe
+- Copy the chromedriver to your C:\Windows (for Windows)
+
+#### Creating a venv
+
+- Open VS-Code and an empty folder to serve as your project directory.
+- On your terminal use this command:<br> `python -m venv .venv`
+- The run this command:<br> `.venv/Scripts/Activate` (for Windows)
+
+#### Running the scraper
+
+- Clone the repository using the following command:<br>
+  `git clone https://github.com/HasnatHridoy/BD-antibiotic-drug-market-analysis.git`
+- Navigate into the folder after cloning:<br>
+  `cd BD-antibiotic-drug-market-analysis`
+- Install the required libraries and dependencies:<br>
+  `pip install -r requirements.txt`
+- Run the main script to extract the data; the output will be a file named `data_extracted.csv`:<br>
+  `python scraper_files/scripts/main.py`
+
 ### Dataset
 
 You can find the dataset from <a href="https://github.com/HasnatHridoy/BD-antibiotic-drug-market-analysis/blob/main/scraped_data/data_extracted.csv"> here </a>
