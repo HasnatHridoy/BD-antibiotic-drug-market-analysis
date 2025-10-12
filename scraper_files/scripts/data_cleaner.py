@@ -58,5 +58,7 @@ def process_data(data_extract):
                     'ref_p&p', 'unit_price', 'strip_price', 'pack_size', 'pack_type']
     df = pd.DataFrame(final_data, columns=column_names)
     df = df.drop('ref_p&p', axis=1)
+    df = df.dropna(subset=[col for col in df.columns if col != 'strip_price']).reset_index(drop=True)
+
 
     return df
