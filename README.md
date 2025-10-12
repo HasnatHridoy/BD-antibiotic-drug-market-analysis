@@ -1,6 +1,6 @@
 ![An overview of Bangladesh's antibiotic drug market and common antibiotic price analysis](readme_glossaries/banner.png)
 
-<a target="_blank" href="https://colab.research.google.com/github/HasnatHridoy/BD-antibiotic-drug-market-analysis/blob/main/scraper_files/notebooks/Antibiotic_price_scraping_notebook.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/HasnatHridoy/BD-antibiotic-drug-market-analysis/blob/main/scraper_files/notebooks/Antibiotics_data_scraping_&_cleaning.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -52,7 +52,7 @@ In this analysis, we will focus on the following points:
 
 Go to Colab via below link and click run all.
 
-<a target="_blank" href="https://colab.research.google.com/github/HasnatHridoy/BD-antibiotic-drug-market-analysis/blob/main/scraper_files/notebooks/antibiotics_data_scraping.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/HasnatHridoy/BD-antibiotic-drug-market-analysis/blob/main/scraper_files/notebooks/Antibiotics_data_scraping_&_cleaning.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
